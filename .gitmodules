@@ -1,0 +1,3 @@
+[submodule "external/pkgsample"]
+	path = external/pkgsample
+	url = https://github.com/nedbat/pkgsample.git
